@@ -19,6 +19,6 @@ The package runs without any errors in python = 2 environment. Change the follow
 The helper functions are defined in the ‘utils.py’ file. The comments in the functions explain the input and outputs.
 The obtained result is placed in the results folder.
 
-![spherical conformal mapping](https://github.com/vasavamsi/Spherical-Conformal-Mapping-using-Python/assets/58003228/ff89d084-0b04-476c-bb9c-61943a20a0b1)
+![spherical conformal mapping](https://github.com/vasavamsi/Spherical-Conformal-Mapping-using-Python/assets/58003228/dd91341a-00dd-4631-ae85-b1bad6206c60)
 
 **Note:** As we have no way to include the texture information, visualization would be hard in the case of python implemantation.
